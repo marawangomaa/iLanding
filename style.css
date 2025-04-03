@@ -440,10 +440,10 @@ h1{
     overflow: hidden;
     justify-content: center;
     align-items: center;
-    gap: 150px;
+    gap: 100px;
 }
 .cimgs img{
-    width: 100px;
+    width: 50px;
     opacity: 0.4;
     transition: all 0.4s;
 }
