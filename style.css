@@ -936,7 +936,7 @@ footer ul{
         gap: 20px; /* Reduce the gap to avoid overflow */
     }
     .cimgs img {
-        width: 60px; /* Adjust the image width if needed */
+        width: 40px; /* Adjust the image width if needed */
     }
     .cslider svg{
         width: 20px !important;
